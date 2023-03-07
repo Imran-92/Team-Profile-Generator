@@ -9,7 +9,7 @@ This is a Node.js command-line application. This application will take in inform
 ## Installation
 
 
-## Web App link
+## App Repository link
 
 
 ## Web App Demo
