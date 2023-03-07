@@ -9,9 +9,9 @@ test('creates an engineer object', () => {
 });
 
 test('gets github username', () => {
-    const engineer = new Engineer('Manager', '1', 'noemiegrau@outlook.fr', 'Noemiegithub');
+    const engineer = new Engineer('Manager', '1', 'mr.imran92@hotmail.com', 'Imran-92');
 
-    expect(engineer.github).toBe('Noemiegithub');
+    expect(engineer.github).toBe('Imran-92');
 });
 
 test('getRole() returns Engineer', () => {

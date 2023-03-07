@@ -8,7 +8,7 @@ test('creates a manager object', () => {
 });
 
 test('gets office number', () => {
-    const manager = new Manager('Manager', '1', 'noemiegrau@outlook.fr', '6');
+    const manager = new Manager('Manager', '1', 'mr.imran92@hotmail.com', '6');
 
     expect(manager.getOfficeNumber()).toBe('6');
 });
